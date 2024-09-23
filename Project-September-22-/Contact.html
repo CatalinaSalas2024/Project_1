@@ -1,34 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 
 <body>
-    <link rel="stylesheet" href="Style2.css">
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-         
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">PRICES</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="Contact.html">CONTACT</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="Home.html">HOME</a>
-              </li>
-        
+    
+ <link rel="stylesheet" href="Style2.css">
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+     <div class="container-fluid">     
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+  <ul class="navbar-nav">
+  <li class="nav-item">
+  <a class="nav-link active" aria-current="page" href="#">PRICES</a>
+ </li>
+ <li class="nav-item">
+<a class="nav-link" href="Contact.html">CONTACT</a>
+</li>
+ <li class="nav-item">
+  <a class="nav-link" href="Home.html">HOME</a>
+ </li>
+        <div>
+            
         </div>
-      
         
+       
+        <img src="Imagines/request-estimate-btn.png" class="rounded float-start" alt="...">
+
+        <div class="container">
+            <h3>Contact Form</h3>
+            <form action="#" name="contact_form">
+                <label for="first_name">First Name</label>
+                <input name="first_name" type="text" required placeholder="John"/>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input name="last_name" type="text" required placeholder="Doe"/>
+                <br>
+                <label for="email">Email</label>
+                <input name="email" type="email" required placeholder="you@domain.com"/>
+                <br>
+                <label for="message">Message</label><br>
+                <textarea name="message" cols="30" rows="10" placeholder="Enter your message here ..." required> </textarea>
+                <div class="center">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>    
+        </div>
+        The CSS part
 </body>
 
 </html>
