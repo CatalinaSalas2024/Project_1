@@ -16,3 +16,7 @@ This is a websitde to estimate for Christmas Lights
 * HTML
 * CSS
 * Bootstramp
+## NEXT STEPS 
+* Create and app for estimates online
+* create a galary with past projects
+  
