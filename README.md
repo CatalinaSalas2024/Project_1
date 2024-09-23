@@ -10,6 +10,7 @@ This is a websitde to estimate for Christmas Lights
   
 ### Wireframes
 <img width="700" alt="Screenshot 2024-09-23 144856" src="https://github.com/user-attachments/assets/f8b8cca9-9cdd-4991-8c82-c25ebdb82c53">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/8aa4a8fd-9745-4634-b975-26dda5bf87e7">
 
 ## Technologies
 * HTML
