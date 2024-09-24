@@ -48,7 +48,7 @@ import url("https://fonts.googleapis.com/css?family=Roboto:400");
 }
 
 body {
-    background: #263238; 
+    background: #c5d0d6; 
 }
 
 h3 {
@@ -81,13 +81,13 @@ input[type=text],input[type=email], textarea {
 
 
 input[type=text]:focus,input[type=email]:focus, textarea:focus {
-    border: 1px solid green;
+    border: 1px solid rgb(33, 180, 33);
 }
 
 input[type=submit] {
     background: #64B5F6;
     margin: 0 auto;
-    outline: 0;
+    outline: 0;z
     color: white;
     border: 0;
     padding: 12px 24px;
