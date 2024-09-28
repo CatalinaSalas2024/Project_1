@@ -1,22 +1,26 @@
 # CATALINA SALAS 
 ## Description
 Website for Salas ligthing 
-This is a websitde to estimate for Christmas Lights 
+This is a websitde to estimate for Christmas Lights Instalations
 
 ## User story
 * Customers should be a ble to get an estimate from the website 
-* Customers should be able to see gallery Pictures of instalations 
+* Customers should be able to contact the company
 * Customers should be able to check prices
   
 ### Wireframes
-<img width="700" alt="Screenshot 2024-09-23 144856" src="https://github.com/user-attachments/assets/f8b8cca9-9cdd-4991-8c82-c25ebdb82c53">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/8aa4a8fd-9745-4634-b975-26dda5bf87e7">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/b1287023-2ba2-40bd-93e1-def3aa9a5362">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/5bb44d1a-1c93-4cb4-b083-6488a3528e73">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/086e1436-cba5-4ad8-84de-7dde37e54f16">
+
 
 ## Technologies
 * HTML
 * CSS
 * Bootstramp
 ## NEXT STEPS 
-* Create and app for estimates online
-* create a galary with past projects
+* Create s a shopping store 
+* Implement user accounts, enabling users to log in and check and pay their Estimate form there.
   
+Author
+Catalina Salas 
